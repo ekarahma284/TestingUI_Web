@@ -1,4 +1,4 @@
-// config/global.js
+
 export const Global = {
   BASE_URL: 'https://website-sekolah-project.vercel.app',
   ADMIN_LOGIN: 'https://website-sekolah-project.vercel.app/Login_admin.html',
